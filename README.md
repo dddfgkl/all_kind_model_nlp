@@ -1,0 +1,1 @@
+[Difference between bidirectional_dynamic_rnn and stack_bidirectional_dynamic_rnn in Tensorflow](https://stackoverflow.com/questions/49242266/difference-between-bidirectional-dynamic-rnn-and-stack-bidirectional-dynamic-rnn/50552539#50552539)
